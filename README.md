@@ -7,7 +7,7 @@ This is a Python wrapper for a Command-line tool for interacting with gRPC serve
 ```sh
 pip install grpcurl-binary-wrapper
 
-grpcurl --help # Now you can use terraform, after you installed it with Pipenv or Pip.
+grpcurl --help # Now you can use GRPCURL, after you installed it with Pipenv or Pip.
 ```
 
 ## License
